@@ -1,0 +1,23 @@
+{
+  "name": "ii-kanji-no-progress-bar",
+  "description": "ii kanji no progress bar",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/ii-kanji-no-progress-bar.git"
+  },
+  "homepage": "https://github.com/nbqx/ii-kanji-no-progress-bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^0.2.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~3.2.0"
+  }
+}
